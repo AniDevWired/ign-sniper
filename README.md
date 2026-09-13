@@ -53,8 +53,6 @@ request per 25 secs
 
 ## 3. Configure your key
 
-```
-
 Open `.env` in any text editor and set:
 
 ```
